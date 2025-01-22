@@ -1,0 +1,7 @@
+{
+    "Applications": {
+      "apptemplate": "https://ryanulsberger@bitbucket.org/piercecountywa-ss/apptemplate.git"
+    },
+    "Core_Widgets": "https://ryanulsberger@bitbucket.org/piercecountywa-ss/widgettemplate.git"
+  }
+  
